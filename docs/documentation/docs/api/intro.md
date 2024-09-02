@@ -1,0 +1,1 @@
+Public APIs do not require authentication.

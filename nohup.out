@@ -1,0 +1,80 @@
+2024/08/24 12:21:11 main.go:115: reading config: config.toml
+2024/08/24 12:21:11 init.go:231: language: english
+2024/08/24 12:21:11 init.go:231: language: turkish
+2024/08/24 12:21:11 main.go:220: loading site theme: ./site
+2024/08/24 12:21:11 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/24 12:29:23 main.go:115: reading config: config.toml
+2024/08/24 12:29:23 init.go:231: language: english
+2024/08/24 12:29:23 init.go:231: language: turkish
+2024/08/24 12:29:23 main.go:220: loading site theme: ./site
+2024/08/24 12:29:23 main.go:244: starting server on :9000
+2024/08/24 12:29:23 main.go:246: error starting HTTP server: listen tcp :9000: bind: address already in use
+2024/08/24 12:50:30 main.go:115: reading config: config.toml
+2024/08/24 12:50:30 init.go:231: language: english
+2024/08/24 12:50:30 init.go:231: language: turkish
+2024/08/24 12:50:30 main.go:220: loading site theme: ./site
+2024/08/24 12:50:30 main.go:244: starting server on :9000
+2024/08/24 12:50:30 main.go:246: error starting HTTP server: listen tcp :9000: bind: address already in use
+2024/08/24 13:04:54 main.go:115: reading config: config.toml
+2024/08/24 13:04:54 init.go:231: language: english
+2024/08/24 13:04:54 init.go:231: language: turkish
+2024/08/24 13:04:54 main.go:220: loading site theme: ./site
+2024/08/24 13:04:54 main.go:244: starting server on :9000
+2024/08/24 13:04:54 main.go:246: error starting HTTP server: listen tcp :9000: bind: address already in use
+2024/08/31 08:19:14 main.go:115: reading config: config.toml
+2024/08/31 08:19:14 init.go:231: language: english
+2024/08/31 08:19:14 init.go:231: language: turkish
+2024/08/31 08:19:14 main.go:220: loading site theme: ./site
+2024/08/31 08:19:14 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:29:00 main.go:115: reading config: config.toml
+2024/08/31 08:29:01 init.go:231: language: english
+2024/08/31 08:29:01 init.go:231: language: turkish
+2024/08/31 08:29:01 main.go:220: loading site theme: ./site
+2024/08/31 08:29:01 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:33:30 main.go:115: reading config: config.toml
+2024/08/31 08:33:30 init.go:231: language: english
+2024/08/31 08:33:30 init.go:231: language: turkish
+2024/08/31 08:33:30 main.go:220: loading site theme: ./site
+2024/08/31 08:33:30 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:35:03 main.go:115: reading config: config.toml
+2024/08/31 08:35:03 init.go:231: language: english
+2024/08/31 08:35:03 init.go:231: language: turkish
+2024/08/31 08:35:03 main.go:220: loading site theme: ./site
+2024/08/31 08:35:03 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:36:29 main.go:115: reading config: config.toml
+2024/08/31 08:36:29 init.go:231: language: english
+2024/08/31 08:36:29 init.go:231: language: turkish
+2024/08/31 08:36:29 main.go:220: loading site theme: ./site
+2024/08/31 08:36:29 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:40:25 main.go:115: reading config: config.toml
+2024/08/31 08:40:25 init.go:231: language: english
+2024/08/31 08:40:25 init.go:231: language: turkish
+2024/08/31 08:40:25 main.go:220: loading site theme: ./site
+2024/08/31 08:40:25 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:41:36 main.go:115: reading config: config.toml
+2024/08/31 08:41:36 init.go:231: language: english
+2024/08/31 08:41:36 init.go:231: language: turkish
+2024/08/31 08:41:36 main.go:220: loading site theme: ./site
+2024/08/31 08:41:36 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 08:59:28 main.go:115: reading config: config.toml
+2024/08/31 08:59:28 init.go:231: language: english
+2024/08/31 08:59:28 init.go:231: language: turkish
+2024/08/31 08:59:28 main.go:220: loading site theme: ./site
+2024/08/31 08:59:28 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
+2024/08/31 09:01:27 handlers.go:143: error querying db (second direction): unknown language 
+2024/08/31 09:01:34 handlers.go:143: error querying db (second direction): unknown language 
+2024/08/31 09:05:28 main.go:115: reading config: config.toml
+2024/08/31 09:05:28 init.go:231: language: english
+2024/08/31 09:05:28 init.go:231: language: turkish
+2024/08/31 09:05:28 main.go:220: loading site theme: ./site
+2024/08/31 09:05:28 main.go:244: starting server on :9000
+⇨ http server started on [::]:9000
